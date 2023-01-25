@@ -71,11 +71,11 @@ main .cards article:nth-child(2) {
 }
   
 main .cards article:nth-child(3) {
-    border-top: 0.5rem solid hsl(34, 97%, 64%);
+    border-top: 0.5rem solid hsl(212, 86%, 64%);
 }
   
 main .cards article:last-child {
-    border-top: 0.5rem solid hsl(212, 86%, 64%);
+    border-top: 0.5rem solid hsl(34, 97%, 64%);
 }
 
 main .cards article h2 {
